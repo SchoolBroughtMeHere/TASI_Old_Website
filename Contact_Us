@@ -1,0 +1,165 @@
+
+<html>
+<head>
+
+<title>Contact Us: Thomas's Aircraft Supplies</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+<link href="scipt/style.css" rel="stylesheet" type="text/css">
+<link href="scipt/menu.css" rel="stylesheet" type="text/css">
+<script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_validateForm() { //v4.0
+  var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+  for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=MM_findObj(args[i]);
+    if (val) { nm=val.name; if ((val=val.value)!="") {
+      if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+        if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+      } else if (test!='R') { num = parseFloat(val);
+        if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+        if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+          min=test.substring(8,p); max=test.substring(p+1);
+          if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+    } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+  } if (errors) alert('The following error(s) occurred:\n'+errors);
+  document.MM_returnValue = (errors == '');
+}
+//-->
+</script>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('images/menu.hov_01.jpg','images/menu.hov_04.jpg','images/menu.hov_02.jpg','images/menu.hov_03.jpg')">
+<div align="center">
+  <table width="100" border="0" cellpadding="0" cellspacing="3" bgcolor="#000000">
+  <tr>
+    <td valign="top" bgcolor="#000000"><table width="800" border="0" cellpadding="0" cellspacing="0" bgcolor="#898EAA" id="Table_01">
+      <tr>
+        <td colspan="2"><a href="index.html"><img src="images/index_01.jpg" alt="Thomas's Aircraft Supplies Banner - Click here to go back to the Home page" width="800" height="130" border="0"></a></td>
+      </tr>
+      <tr>
+        <td width="560"><img src="images/index_02.png" width="560" height="29"></td>
+        <td width="240" class="date"><script src="scipt/dt.js" type="text/javascript" language="javascript"></script></td>
+      </tr>
+      <tr>
+        <td height="34" colspan="2" background="images/index_04.png"><table id="menu2" width="800" height="31" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+			<a href="index.html"><img src="images/menu_01.jpg" alt="" name="home" width="85" height="31" border="0" id="home" onMouseOver="MM_swapImage('home','','images/menu.hov_01.jpg',1)" onMouseOut="MM_swapImgRestore()"></a></td>
+		<td>
+			<a href="about.html"><img src="images/menu_02.jpg" alt="" name="about" width="116" height="31" border="0" id="about" onMouseOver="MM_swapImage('about','','images/menu.hov_02.jpg',1)" onMouseOut="MM_swapImgRestore()"></a></td>
+		<td>			<a href="products.html"><img src="images/menu_03.jpg" alt="" name="products" width="136" height="31" border="0" id="products" onMouseOver="MM_swapImage('products','','images/menu.hov_03.jpg',1)" onMouseOut="MM_swapImgRestore()"></a></td>
+		<td>
+			<a href="supplies.html"><img src="images/menu_04.jpg" alt="" name="order" width="157" height="31" border="0" id="order" onMouseOver="MM_swapImage('order','','images/menu.hov_04.jpg',1)" onMouseOut="MM_swapImgRestore()"></a></td>
+		<td><a href="contact.html"><img src="images/menu.act_05.jpg" alt="" name="contact" width="137" height="31" border="0" id="contact"></a></td>
+		<td>
+			<img src="images/menu_06.jpg" width="112" height="31" alt=""></td>
+		<td>
+			<img src="images/menu_07.jpg" width="57" height="31" alt=""></td>
+	</tr>
+</table></td>
+      </tr>
+      <tr>
+        <td height="400" colspan="2" valign="top" class="body_bk"><table width="100%" border="0" cellpadding="6" cellspacing="2" id="products">
+           
+            <tr>
+              <td height="8"></td>
+            </tr>
+            <tr>
+              <td>
+                <h1>THOMAS'S AIRCRAFT SUPPLIES: CONTACT US </h1>
+                <div align="center"><p>Please complete the form below to contact one of our representatives.</p>
+<form action="http://www.thomassaircraftsupplies.com/cgi-bin/contact_form.cgi" method="post" name="[object]">
+    <input type="hidden" name="subject" value="Thomassaircraftsupplies.com" /> <input type="hidden" name="success_page" value="http://www.urangatang.info/~kfitzgerald/859-A-Thomas-Aircraft/site/success.html" /> <input type="hidden" name="required" value="name,email,phone" /> <input type="hidden" name="sort" value="name,email,phone,comments" />
+    <img src="images/ctc_7199.png" alt="" width="160" height="120" align="right" id="jet_img" />
+    <table id="form_tbl" cellspacing="2" cellpadding="2" width="500" align="center" border="0">
+        <tbody>
+            <tr>
+                <td>
+                <div align="right">Name*:</div>                </td>
+                <td><input title="Your Google Toolbar can fill this in for you. Select AutoFill" style="background-color: #ffffa0" size="26" onBlur="MM_validateForm('name','','R');return document.MM_returnValue" name="name" type="text" /></td>
+            </tr>
+            <tr>
+                <td>
+                <div align="right">Email*:</div>                </td>
+                <td><input title="Your Google Toolbar can fill this in for you. Select AutoFill" style="background-color: #ffffa0" size="26" name="email" type="text" /></td>
+            </tr>
+            <tr>
+                <td>
+                <div align="right">Phone*:</div>                </td>
+                <td><input title="Your Google Toolbar can fill this in for you. Select AutoFill" style="background-color: #ffffa0" size="12" onBlur="MM_validateForm('email','','R');return document.MM_returnValue" name="phone" type="text" /></td>
+            </tr>
+            <tr>
+                <td>
+                <div align="right">Comment:</div>                </td>
+                <td><textarea rows="6" cols="50" name="comments"></textarea></td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>
+                <div align="right"><input type="submit" name="Submit" value="Submit" /></div>                </td>
+            </tr>
+        </tbody>
+    </table>
+    
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+</form></div>
+</td>
+            </tr>
+          </table>
+		  <table width="70%" border="0" align="center" cellpadding="0" cellspacing="2">
+                      <tr>
+                        <td width="25%" valign="top"><img src="images/gs_9879t.jpg" alt="Airplane on runway" width="180" height="144"></td>
+      <td width="75%" valign="top" bgcolor="#eeeeee" class="box_text1"><p align="center"><strong><span id="HEAD">WE WILL BUY, SELL AND TRADE YOUR INVENTORY</span></strong> </p>
+        <p align="center"><strong>Call or fax us with your surplus inventory listings </strong><br>
+          210 Wembly Road, New Windsor, New York 12553</p>
+        <p align="center">Phone: 845-564-7221 &nbsp;&nbsp;Fax: 845-564-7564 </p>
+        <p>Call Toll Free: 1-800-252-0282<br>
+          Email: info@thomassaircraftsupplies.com</p></td>
+    </tr>
+  </table>
+		  <p>&nbsp;</p></td>
+      </tr>
+      <tr>
+        <td height="30" colspan="2" align="center" bgcolor="#50546e" class="copy"><!-- #BeginLibraryItem "/footer.lbi" -->
+<p><a href="index.html" class="copy">            HOME</a> | <a href="about.html" class="copy">ABOUT</a> | <a href="products.html" class="copy">PRODUCTS</a> | <a href="supplies.html" class="copy">ORDER SUPPLIES</a> | <a href="contact.html" class="copy">CONTACT US</a></p>
+          <p>&copy; 2007 Thomas's Aircraft Supplies. All Rights Reserved.           
+         
+              <DIV align="center" id="footer"><A href="http://www.urangatang.com" target="_blank"><IMG src="images/urangatang_logo_footer.gif" width="19" height="25" border="0" align="absMiddle"> Urangatang Web   Design</A> </DIV>
+         
+          <p>    
+<!-- #EndLibraryItem --><br/>
+          <br/>
+          <p></p></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<!-- End ImageReady Slices -->
+<!-- menu script itself. you should not modify this file -->
+</div>
+</body>
+</html>
