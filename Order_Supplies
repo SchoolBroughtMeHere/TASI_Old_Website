@@ -1,0 +1,107 @@
+
+<html>
+<head>
+
+<title>Ordering Aircraft Supplies: Thomas's Aircraft Supplies, Inc.</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+<link href="scipt/style.css" rel="stylesheet" type="text/css">
+<link href="scipt/menu.css" rel="stylesheet" type="text/css">
+<script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('images/menu.hov_01.jpg','images/menu.hov_05.jpg','images/menu.hov_02.jpg','images/menu.hov_03.jpg')">
+<div align="center">
+  <table width="100" border="0" cellpadding="0" cellspacing="3" bgcolor="#000000">
+  <tr>
+    <td valign="top" bgcolor="#000000"><table width="800" border="0" cellpadding="0" cellspacing="0" id="Table_01">
+      <tr>
+        <td colspan="2"><a href="index.html"><img src="images/index_01.jpg" alt="Thomas's Aircraft Supplies Banner - Click here to go back to the Home page" width="800" height="130" border="0"></a></td>
+      </tr>
+      <tr>
+        <td width="560"><img src="images/index_rev_02.jpg" width="560" height="29"></td>
+        <td width="240" class="date"><script src="scipt/dt.js" type="text/javascript" language="javascript"></script></td>
+      </tr>
+      <tr>
+        <td height="34" colspan="2" background="images/index_04.png"><table id="menu2" width="800" height="31" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+			<a href="index.html"><img src="images/menu_01.jpg" alt="" name="home" width="85" height="31" border="0" id="home" onMouseOver="MM_swapImage('home','','images/menu.hov_01.jpg',1)" onMouseOut="MM_swapImgRestore()"></a></td>
+		<td>
+			<a href="about.html"><img src="images/menu_02.jpg" alt="" name="about" width="116" height="31" border="0" id="about" onMouseOver="MM_swapImage('about','','images/menu.hov_02.jpg',1)" onMouseOut="MM_swapImgRestore()"></a></td>
+		<td>			<a href="products.html"><img src="images/menu_03.jpg" alt="" name="products" width="136" height="31" border="0" id="products" onMouseOver="MM_swapImage('products','','images/menu.hov_03.jpg',1)" onMouseOut="MM_swapImgRestore()"></a></td>
+		<td>			<img src="images/menu.act_04.jpg" alt="" name="order" width="157" height="31" border="0" id="order"></td>
+		<td><a href="contact.html"><img src="images/menu_05.jpg" alt="" name="contact" width="137" height="31" border="0" id="contact" onMouseOver="MM_swapImage('contact','','images/menu.hov_05.jpg',1)" onMouseOut="MM_swapImgRestore()"></a></td>
+		<td>
+			<img src="images/menu_06.jpg" width="112" height="31" alt=""></td>
+		<td>
+			<img src="images/menu_07.jpg" width="57" height="31" alt=""></td>
+	</tr>
+</table></td>
+      </tr>
+      <tr>
+        <td height="400" colspan="2" valign="top" class="body_bk"><table width="100%" border="0" cellpadding="6" cellspacing="2" id="supplies">
+            
+            <tr>
+              <td height="8"></td>
+            </tr>
+            <tr>
+              <td>
+                <h1>THOMAS'S AIRCRAFT SUPPLIES: ORDERING SUPPLIES </h1>
+                <div class="mainbody">
+                  <h2><img src="images/ord_ph.jpg" width="110" height="133" hspace="9" align="right">Would you like access to over 50,000 parts and supplies for your aircraft? Do you have a special item that you can't find anywhere? We'd like to help.</h2>
+                  <p>If you already have an account with Thomas's. please call in your order <strong>1-800-252-0282<br>  
+                      <br>
+                  </strong> or <strong>fax</strong> your order to: <strong>845-564-7564. </strong></p>
+                  <p>For new customers, please call <strong>1-800-252-0282</strong> to set up a new account, or contact us via the web <a href="contact.html">here</a>, to have a representative contact you. </p>
+                  <p align="center"><img src="images/ord-img.jpg" width="556" height="315"></p>
+                </div>
+                </td>
+            </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td height="30" colspan="2" align="center" bgcolor="#50546e" class="copy"><!-- #BeginLibraryItem "/859-A-Thomas-Aircraft/site/footer.lbi" -->
+<p><a href="index.html" class="copy">            HOME</a> | <a href="about.html" class="copy">ABOUT</a> | <a href="products.html" class="copy">PRODUCTS</a> | <a href="supplies.html" class="copy">ORDER SUPPLIES</a> | <a href="contact.html" class="copy">CONTACT US</a></p>
+          <p>&copy; 2007 Thomas's Aircraft Supplies. All Rights Reserved.           
+         
+              <DIV align="center" id="footer"><A href="http://www.urangatang.com" target="_blank"><IMG src="images/urangatang_logo_footer.gif" width="19" height="25" border="0" align="absMiddle"> Urangatang Web   Design</A> </DIV>
+         
+          <p>    
+<!-- #EndLibraryItem --><p><br/>
+            <br/>
+            </p>
+          </td></tr>
+    </table></td>
+  </tr>
+</table>
+<!-- End ImageReady Slices -->
+<!-- menu script itself. you should not modify this file -->
+</div>
+</body>
+</html>
