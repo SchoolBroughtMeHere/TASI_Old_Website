@@ -33,7 +33,14 @@ function MM_swapImage() { //v3.0
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 //-->
-</script></head>
+</script>
+// "Get in Contact Button" here
+//    <a href="Contact_Us.html">
+//      <button>
+//          Get In Touch
+//      </button>
+//    </a>
+</head>
 <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('images/menu.hov_02.jpg','images/menu.hov_03.jpg','images/menu.hov_04.jpg','images/menu.hov_05.jpg')">
 <div align="center"><table width="100" border="0" cellpadding="0" cellspacing="3" bgcolor="#000000">
   <tr>
